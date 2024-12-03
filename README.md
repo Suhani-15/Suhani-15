@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Suhani Gupta</h1>
-<h3 align="center">I'm a prefinal year pursing my Bachelor of Technology in CSE(AIML). I'm well aware of C, C++ , python, HTML/CSS. Moreover, I have developed a interest in Data science, Machine learning and web development. A enthusiastic and hard working person who is looking forward to work in an environment whether growth takes place professionally.</h3>
+<h3 align="center">I am a computer science with artificial intelligence and machine learning graduate. 
+Throughout my career, I have had the opportunity to work with diverse technologies , from development to implementation.
+I honed my skills in Data Science and problem-solving. I thrive on tackling complex challenges and enjoy finding innovative solutions that have a real-world impact. Each day presents a chance to learn something new, enhancing my expertise and contributing to meaningful projects.</h3>
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suhani-15&label=Profile%20views&color=0e75b6&style=flat" alt="suhani-15" /> </p>
 
